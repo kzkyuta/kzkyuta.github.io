@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on KZK Portfolio</title>
+    <link>http://kzkyuta.github.io/projects/</link>
+    <description>Recent content in Projects on KZK Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 24 Apr 2019 21:37:04 +0900</lastBuildDate><atom:link href="http://kzkyuta.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facial Wearable Robot (Winkey)</title>
+      <link>http://kzkyuta.github.io/projects/wineky/</link>
+      <pubDate>Wed, 24 Apr 2019 21:37:04 +0900</pubDate>
+      
+      <guid>http://kzkyuta.github.io/projects/wineky/</guid>
+      <description>Facial Paralysis This study proposes a novel facial wearable robot for supporting eyelid movements. The robot is designed for people with facial paralysis, especially on one side of the face. People with facial paralysis are not able to blink, which disturbs their concentration. Keep your eyes open as long as possible. After your patience, what do you feel ? Your eye get dry and feel uncomfortable, and you may hold your eye.</description>
+    </item>
+    
+    <item>
+      <title>EL-Astrocade</title>
+      <link>http://kzkyuta.github.io/projects/el-astrocade/</link>
+      <pubDate>Thu, 15 Mar 2018 21:18:04 +0900</pubDate>
+      
+      <guid>http://kzkyuta.github.io/projects/el-astrocade/</guid>
+      <description>Overview We proposed a shooting game based on whole body motion. This game need 2 vs 2 players, and each team control one spaceship. the movement of one player corresponds to the spaceship movement in X direction, and the movement of another player corresponds to the movement in Y direction. This game is projected on floor and players move along the sides of projected screen. All player can shoot with jumping motion and make a shield with squat motion.</description>
+    </item>
+    
+    <item>
+      <title>SoftExoMuscle</title>
+      <link>http://kzkyuta.github.io/projects/softexomuscle/</link>
+      <pubDate>Wed, 31 Jan 2018 21:24:33 +0900</pubDate>
+      
+      <guid>http://kzkyuta.github.io/projects/softexomuscle/</guid>
+      <description>Overview I Proposed the Brake system to reduce the stress on lumber. With this project, I aim to solve the lower back pain problem with this system, and I want to distribute to blue collar worker who suffering from LBP like care giver and This project aims to distribute this system as business product to blue-collar workers like care givers and deliver.
+Award Yuta Kozaki, Best Presentation Award, &amp;ldquo;Soft Exo Muscle - Soft Wearable Robot to Support Lumber movement for Caregivers&amp;rdquo;, In The Tokyo University Edge Next Program at The Institute for The Global Entrepreneur UCSD, San Diego, 2018</description>
+    </item>
+    
+    <item>
+      <title>BandTrainTX</title>
+      <link>http://kzkyuta.github.io/projects/bandtraintx/</link>
+      <pubDate>Tue, 24 Nov 2015 20:40:07 +0900</pubDate>
+      
+      <guid>http://kzkyuta.github.io/projects/bandtraintx/</guid>
+      <description>Overview This is a toy for train pretend. This toy can play a music called &amp;ldquo;I&amp;rsquo;ve Been Working on the Railroad&amp;rdquo; going along with body motion. With this toy, I want to motivate children to move their body.
+This work has done with people from engineering field and design field.
+Exhibition 小崎湧太, 小関美咲, “Band Train TX”, つくばメディアアートフェスティバル2016, つくば, 2015年 11月 - 12月
+Media 常用新聞, 2015年12月
+  </description>
+    </item>
+    
+  </channel>
+</rss>
